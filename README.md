@@ -1,6 +1,6 @@
 # 📈 SmartStock-ML-Predictor
 
-### Intelligent Stock Market Analysis using Machine Learning (No Deep Learning)
+### Intelligent Stock Market Analysis using Machine Learning
 
 A powerful **Machine Learning-based web application** that analyzes stock market data, trains **17 ML models (classification + regression)**, and automatically selects the best model to predict stock price and trend with high accuracy.
 
@@ -252,10 +252,10 @@ Open 👉 http://localhost:8501
 
 ## 👤 Maintainer
 
-**Shabreen Taj**
-🔗 GitHub: https://github.com/taj-shabreen
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/@TAJ--SHABREEN-111111?style=for-the-badge&logoColor=white"/>
+</p>
 
 
 ## ⭐ Support
